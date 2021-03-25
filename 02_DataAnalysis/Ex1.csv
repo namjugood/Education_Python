@@ -1,0 +1,8 @@
+file_name,All_total,All_average
+sales_february_2014.csv,9375.0,1562.5
+sales_january_2014.csv,8992.0,1498.6666666666667
+sales_march_2014.csv,10139.0,1689.8333333333333
+"
+"
+file_name,All_total,All_average
+sales_*.csv,10139.0,1689.8333333333333
