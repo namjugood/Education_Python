@@ -10,7 +10,7 @@
 	- 사용자 path에는 bin까지
 	- 시스템 path에는 dot.exe까지
 
-# 
+## 특이사항
 * 업로드 용량 초과로 인한 개별 저장
 * 아래 파일의 경로 : 
   - [seoul_open_store.csv](https://drive.google.com/file/d/1KFkMx_SbUovNhy0WL8pAYl4jJQVYFfPn/view?usp=sharing)
